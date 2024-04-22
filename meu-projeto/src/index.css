@@ -1,0 +1,23 @@
+/* este css é o global tudo que se faz nele é aplicado em todos os componenetes.*/
+
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: rgb(236, 236, 236);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    padding-bottom: 500px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h3{
+  color: red;
+}
